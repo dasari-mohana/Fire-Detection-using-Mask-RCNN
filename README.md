@@ -67,6 +67,6 @@ and inference data.
 
 3. output folder – The output folder contains the logs generated after training the mrcnn model. A training model is saved per epoch in h5 format. The model is trained on 20 images and a h5 file is been generated. This model can be quickly loaded and used for future use and the user need by passing different set of images.
 
-## Note : Weight uploading is troublesome, therefore I provided them in my disc; you may get it here.
+### Note : Weight uploading is troublesome, therefore I provided them in my drive; you may get it here.
 
 https://drive.google.com/file/d/1TXe9vwf5NrzadtZuhkqvZe8PE5Q9e5_v/view?usp=share_link
