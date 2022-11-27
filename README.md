@@ -66,3 +66,7 @@ and inference data.
 2. src folder - This is the most important folder of the project. This folder contains the original ipython notebook of the project 
 
 3. output folder – The output folder contains the logs generated after training the mrcnn model. A training model is saved per epoch in h5 format. The model is trained on 20 images and a h5 file is been generated. This model can be quickly loaded and used for future use and the user need by passing different set of images.
+
+## Note : Weight uploading is troublesome, therefore I provided them in my disc; you may get it here.
+
+https://drive.google.com/file/d/1TXe9vwf5NrzadtZuhkqvZe8PE5Q9e5_v/view?usp=share_link
